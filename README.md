@@ -3,6 +3,9 @@ THIS PROJECT CREATING ATS FRIENDLY RESUME FOR EVERY TRADE AND FIELDS IT IS VERY 
 
 <p>A clean, responsive, and interactive Resume Builder web application built with vanilla JavaScript, HTML5, and Tailwind CSS. It allows users to create, customize, and preview professional resumes in real time and export them directly to PDF.</p>
 
+# Project Preview
+<ul><li><a href="https://amit-devi.github.io/RESUME-BUILDER/">Visit Now</a></li></ul>
+
 # Features
 
 <ul><li>⚡ Instant Real-Time Preview: Watch changes update live on the simulated A4 sheet as you type.</li></ul>
